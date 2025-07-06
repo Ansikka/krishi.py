@@ -1,22 +1,22 @@
 # krishi.py
-🚀 Features
-🗣️ Multilingual Language Support (English, Hindi, Bhojpuri, Punjabi, Tamil, Telugu, Kannada, Awadhi)
+Features
+Multilingual Language Support (English, Hindi, Bhojpuri, Punjabi, Tamil, Telugu, Kannada, Awadhi)
 
-📢 Text-to-Speech Audio for all textual content
+Text-to-Speech Audio for all textual content
 
-🌱 Fertilizer Recommendations based on crop and soil type
+Fertilizer Recommendations based on crop and soil type
 
-🧾 Loan/Subsidy Eligibility Checker
+Loan/Subsidy Eligibility Checker
 
-🌦️ Weather Alerts (e.g., heavy rain warnings)
+Weather Alerts (e.g., heavy rain warnings)
 
-📅 Crop Calendar for seasonal crop planning
+Crop Calendar for seasonal crop planning
 
-🤖 Voice-enabled and regional chatbot integration (planned)
+Voice-enabled and regional chatbot integration (planned)
 
-🛠️ Lightweight, mobile-friendly Streamlit UI
+Lightweight, mobile-friendly Streamlit UI
 
-🛠️ Tech Stack
+Tech Stack
 Frontend/UI: Streamlit
 
 Backend Logic: Python
